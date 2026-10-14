@@ -1,0 +1,28 @@
+[
+  {
+    "number": 1,
+    "customer": "1",
+    "items": [
+      {
+        "name": "2",
+        "price": 4.0,
+        "quantity": 5
+      }
+    ],
+    "status": "новый",
+    "total": 20.0
+  },
+  {
+    "number": 2,
+    "customer": "Иван",
+    "items": [
+      {
+        "name": "Самокат",
+        "price": 4000.0,
+        "quantity": 5
+      }
+    ],
+    "status": "новый",
+    "total": 20000.0
+  }
+]
